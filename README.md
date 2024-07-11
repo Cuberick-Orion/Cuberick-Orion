@@ -1,8 +1,10 @@
 ## Hi there
 
-I am currently a postdoctoral research fellow at the Australian Institute for Machine Learning (AIML), University of Adelaide.
+I am currently a postdoctoral research fellow at the **Australian Institute for Machine Learning (AIML)**, University of Adelaide.
 
-🔭 For a full bio and my recent work, please visit [my homepage](https://www.zheyuanliu.me/).
+My research surrounds **generative model, mult-modal learning**.
+
+🔭 For a full bio and my recent work, please visit [**my homepage**](https://www.zheyuanliu.me/).
 
 <!--
 **Cuberick-Orion/Cuberick-Orion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
