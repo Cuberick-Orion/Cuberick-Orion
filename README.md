@@ -2,7 +2,7 @@
 
 I am currently a postdoctoral research fellow at the **Australian Institute for Machine Learning (AIML)**, University of Adelaide.
 
-🔭 My research has surrounded **vision-and-language tasks**, I am currently working on **generative model, mult-modal learning**.
+🔭 My research has surrounded **vision-and-language tasks**, I am now working on **generative model, mult-modal learning**.
 
 🌐 For a full bio and my recent work, please visit [**my homepage**](https://www.zheyuanliu.me/).
 
@@ -11,7 +11,7 @@ I am currently a postdoctoral research fellow at the **Australian Institute for 
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m now working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
