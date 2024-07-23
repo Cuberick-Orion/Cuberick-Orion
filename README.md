@@ -6,6 +6,8 @@ I am currently a **postdoctoral research fellow** at the Australian Institute fo
 
  For a full bio and my recent work, please visit [**my homepage**](https://www.zheyuanliu.me/).
 
+[:sparkles::musical_note:](https://youtu.be/BHyMZD0jXiI?si=7cqyC0vazf4ucm_y)
+
 <!--
 **Cuberick-Orion/Cuberick-Orion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
