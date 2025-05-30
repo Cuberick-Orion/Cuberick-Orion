@@ -2,7 +2,7 @@
 
 I am currently a **postdoctoral research fellow** at the Australian Institute for Machine Learning (**AIML**), University of Adelaide.
 
-🔭 My research has surrounded **vision-and-language tasks**, I am now working on **generative model, mult-modal learning**.
+🔭 My research surrounds **video generation/editing**. My PhD was on **vision-and-language tasks**.
 
  For a full bio and my recent work, please visit [**my homepage**](https://www.zheyuanliu.me/).
 
