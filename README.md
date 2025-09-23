@@ -1,8 +1,8 @@
 ## Hi there ✨
 
-I am currently a **postdoctoral research fellow** at the Australian Institute for Machine Learning (**AIML**), University of Adelaide.
+I am currently a **Senior Applied Scientist** at Oracle Health AI (OHAI). Previously I was a postdoc at the Australian Institute for Machine Learning (AIML), University of Adelaide.
 
-🔭 My research surrounds **video generation/editing**. My PhD was on **vision-and-language tasks**.
+🔭 My research surrounds **generative AI**. My postdoc and PhD was on **video generation/editing and vision-and-language tasks**.
 
  For a full bio and my recent work, please visit [**my homepage**](https://www.zheyuanliu.me/).
 
